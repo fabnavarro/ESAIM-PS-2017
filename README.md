@@ -8,7 +8,7 @@ This is the code to reproduce all the experiments presented in the paper
 <br>
 To appear in [ESAIM: Probability and Statistics](http://www.esaim-ps.org/)**
 
-![Slope heuristics for the selection of linear wavelet models](figs/figSpikesSH.png)
+![Slope heuristics for the selection of linear wavelet models](fig/figSpikesSH.png)
 
 ### Requirements
 * [Wavelab](http://statweb.stanford.edu/~wavelab/)

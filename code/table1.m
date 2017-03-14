@@ -12,7 +12,7 @@ randn('state',0);
 
 nlist  = [256 1024 4096];
 J      = log2(nlist);
-MC     = 10;
+MC     = 1000;
 Pn     = @(x0,x)(mean((x-x0).^2,2));
 
 noise_level = 'Low';

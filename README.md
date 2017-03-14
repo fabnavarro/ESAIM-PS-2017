@@ -13,4 +13,4 @@ To appear in [ESAIM: Probability and Statistics](http://www.esaim-ps.org/)**
 ### Requirements
 * [Wavelab](http://statweb.stanford.edu/~wavelab/)
 
-Copyright (c) 2017 Fabien Navarro
+Copyright (c) 2017 Fabien Navarro and Adrien Saumard

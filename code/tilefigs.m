@@ -97,16 +97,3 @@ for row = 1 : nv
    end
 end
 
-
-
-
-%
-% Part of DensityDeconvToolbox Version:100
-% Written by: Jalal Fadili, GREYC CNRS ENSICAEN
-%             Christophe Chesneau, LMNO University of Caen
-% Created July 2011
-% This material is distributed under CeCiLL licence.
-% E-mail: Jalal.Fadili@greyc.ensicaen.fr
-% 
-
-
